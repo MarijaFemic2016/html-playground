@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  font-family: Arial;
+  color: $hex-value-white;
+}
+
+.logo {
+  float: left;
+}
+
+nav {
+  float: right;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
